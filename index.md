@@ -11,4 +11,4 @@ We are a group of religious Jews who get together at Defcon each year. We are tr
 [Follow us on twitter](https://twitter.com/shabbatcon)
 
 
-# Shabb@tcon will be back for Defcon 26!
+# Shabb@con will be back for Defcon 26!
