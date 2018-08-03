@@ -14,6 +14,6 @@ title: Shabb@con 2018 Schedule
 | **Saturday 8/11** |
 | 🙏🙏 | 9:00 |  Shacharis |
 | 🍷🍽️ | 12:00 | Shabb@t Lunch|
-| 🗣️📣 | 14:00 | No Fire Talks |
+| 🗣️📣 | 14:00 | <a href="/talks">No Fire Talks</a> |
 | 🙏🙏 | 19:00 |  Mincha |
 | 🙏🕯 | 20:20 |  Maariv and Havdallah |
