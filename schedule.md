@@ -1,4 +1,4 @@
-###All events will be at the Shabb@con suite in the Flamingo. Please see our schedule below
+### All events will be at the Shabb@con suite in the Flamingo. Please see our schedule below
 
 |:--:|:-----:|:-----:|
 | **Friday 8/10** |
