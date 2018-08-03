@@ -1,4 +1,6 @@
-# SHabb@con 2018 Schedule
+---
+title: Shabb@con 2018 Schedule
+---
 
 ### All events will be at the Shabb@con suite in the Flamingo. Please see our schedule below
 
