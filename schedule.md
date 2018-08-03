@@ -1,4 +1,3 @@
-|    | Time  | Event |
 |:--:|:-----:|:-----:|
 | **Friday 8/10** |
 | 🕯🕯 | 19:28 | Candle lighting |
