@@ -6,7 +6,7 @@ title: Shabb@con 2018 Schedule
 
 |:--:|:-----:|:-----:|
 | **Friday 8/10** |
-| 🕯🕯 | 19:28 | Candle lighting |
+| 🕯🕯 | 19:17 | Candle lighting |
 | 🙏🙏 | 19:20 |  Mincha/Kabalat Shabbat/Maariv |
 | 🍷🍽️ | 21:00 | Shabb@t Kidush & Dinner|
 | 🍺🍸 | 22:40 | Tisch (after party) |
