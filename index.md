@@ -12,4 +12,4 @@ Check out [our schedule](/schedule) &amp; [No Fire Talks](/talks).
 [Follow us on twitter](https://twitter.com/shabbatcon)
 
 
-# Shabb@con will be back for Defcon 26!
+# Shabb@con will be back for Defcon 26! Join us in suite 7053 of the Flamingo!
