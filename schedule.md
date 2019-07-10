@@ -16,4 +16,5 @@ title: Shabb@con 2019 Schedule
 | 🍷🍽️ | 12:00 | Shabb@t Lunch|
 | 🗣️📣 | 14:00 | <a href="/talks">No Fire Talks</a> |
 | 🙏🙏 | 19:00 |  Mincha |
+| 🍷🍽️ | 19:20 |  Seudat Shlishit / Seudat Hamafseket |
 | 🙏🕯 | 20:20 |  Maariv and Havdallah |
