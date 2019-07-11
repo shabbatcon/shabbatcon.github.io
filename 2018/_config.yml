@@ -1,9 +1,5 @@
+theme: jekyll-theme-tactile
 title: Shabb@con 2019
 description: Shabb@con is back again with minyanim, meals, and talks during Defcon 27
 show_downloads: false
 google_analytics:
-plugins:
- - jekyll-redirect-from
-redirect_from:
- -  "/talks/"
- -  "/schedule/"
