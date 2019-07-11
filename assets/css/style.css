@@ -23,7 +23,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* globals */
 body {
-  font:400 16px/1 "Arial Narrow", "AvenirNextCondensed-Regular", Futura-CondensedMedium, sans-serif-condensed, "Ubuntu Condensed", "Liberation Sans Narrow", Arial, sans-serif;
+  font:400 16px/1 "Arial Narrow", "AvenirNextCondensed-Regular", "Futura-CondensedMedium", "sans-serif-condensed", "HelveticaNeue-CondensedBold", "Ubuntu Condensed", "Liberation Sans Narrow", Arial, sans-serif;
   /*  Using 0087BD instead of 00719F
       for better accessiblity
       4.59:1 contrast ratio (vs 3.41:1)  */
@@ -33,8 +33,10 @@ body {
 }
 
 h1, h2, h3, h4, .campaign p {
-  font-family: Staatliches, "Arial Narrow", "AvenirNextCondensed-Regular", Futura-CondensedMedium, sans-serif-condensed, "Ubuntu Condensed", "Liberation Sans Narrow", Arial, sans-serif;
+  font-family: Staatliches, "Arial Narrow", "AvenirNextCondensed-Regular", "Futura-CondensedMedium", "sans-serif-condensed", "HelveticaNeue-CondensedBold", "Ubuntu Condensed", "Liberation Sans Narrow", Arial, sans-serif;
   font-weight: 400;
+  font-stretch: condensed;
+  text-transform: uppercase;
 }
 
 main {
@@ -89,8 +91,7 @@ a {
 .campaign {
   background: #00719F;
   margin: 8vh 0 3vh;
-  text-align: center;
-  padding: 18px;
+  padding: 18px 24px;
 }
 .campaign p {
   font-size:36px;
@@ -140,7 +141,7 @@ footer a {
 
 
 /* mobile styles */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   main {
     padding-right: 4vw;
     padding-left: 4vw;
@@ -152,10 +153,13 @@ footer a {
     font-size: 36px;
   }
   h3 {
-    font-size: 24px;
+    font-size: 22px;
   }
   p, li, .about p {
-    font-size: 20px;
+    font-size: 18px;
+  }
+  .campaign {
+    padding: 4vw;
   }
   .campaign p {
     font-size: 24px;
@@ -167,6 +171,7 @@ footer a {
     font-size: 18px;
   }
   .schedule tbody tr td:nth-child(1) {
-    width: 2.8em;
+    width: auto;
+    font-size: 15px;
   }
 }
