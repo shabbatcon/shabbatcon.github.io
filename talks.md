@@ -9,7 +9,6 @@ Want to talk at shabb@con? Our CFP is still open!
 Past speakers have included:
 - Jonathan Singer
 - Yigal Elefant
-- K3r3n
 - Sidragon
 - Travis Goodspeed
 - Guy McDudefella
