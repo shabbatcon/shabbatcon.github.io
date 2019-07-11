@@ -171,7 +171,7 @@ footer a {
     font-size: 18px;
   }
   .schedule tbody tr td:nth-child(1) {
-    width: auto;
+    width: 3em;
     font-size: 15px;
   }
 }
