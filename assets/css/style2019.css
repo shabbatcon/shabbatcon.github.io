@@ -158,6 +158,18 @@ footer a {
 #Catering tbody tr:nth-child(even) {
   background-color: rgba(0, 135, 189, 0.18);
 }
+/* delivery header logos: show the existing PNGs as theme-orange silhouettes via their alpha masks */
+#Restaurants tr:first-child td[align="center"] img {
+  object-position: -9999px 0; /* hide the original colors; the box, alt text and position stay */
+  background-color: #d65f21;
+  -webkit-mask: var(--logo) center / contain no-repeat;
+          mask: var(--logo) center / contain no-repeat;
+}
+#Restaurants tr:first-child td:nth-child(4) img { --logo: url("../images/delivery-GH.png"); }
+#Restaurants tr:first-child td:nth-child(5) img { --logo: url("../images/delivery-PM.png"); }
+#Restaurants tr:first-child td:nth-child(6) img { --logo: url("../images/delivery-UE.png"); }
+#Restaurants tr:first-child td:nth-child(7) img { --logo: url("../images/delivery-DD.png"); }
+
 /* delivery columns: available services (linked) get a rounded box, unavailable ones (plain text) fade back */
 #Restaurants td[align="center"] {
   color: rgba(0, 135, 189, 0.35);
