@@ -141,6 +141,23 @@ footer a {
 }
 
 
+/* kosher food page tables (vegasfood.html): alternating row highlights */
+#Restaurants table,
+#Supermarkets table,
+#Catering table {
+  border-collapse: collapse; /* close the cellspacing gaps so stripes are solid bands */
+}
+#Restaurants td,
+#Supermarkets td,
+#Catering td {
+  padding: 6px 10px;
+}
+/* Restaurants keeps its heading row inside tbody, so skip it and stripe every other data row */
+#Restaurants tbody tr:nth-child(odd):not(:first-child),
+#Supermarkets tbody tr:nth-child(even),
+#Catering tbody tr:nth-child(even) {
+  background-color: rgba(0, 135, 189, 0.18);
+}
 
 /* mobile styles */
 @media screen and (max-width: 800px) {
