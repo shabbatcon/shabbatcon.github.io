@@ -158,6 +158,25 @@ footer a {
 #Catering tbody tr:nth-child(even) {
   background-color: rgba(0, 135, 189, 0.18);
 }
+/* delivery columns: available services (linked) get a rounded box, unavailable ones (plain text) fade back */
+#Restaurants td[align="center"] {
+  color: rgba(0, 135, 189, 0.35);
+}
+#Restaurants td[align="center"] a {
+  display: inline-block;
+  min-width: 2.2em;
+  padding: 1px 6px;
+  color: #0087BD; /* links inherit color site-wide, so set it here or they pick up the faded cell color */
+  border: 1px solid #0087BD;
+  border-radius: 6px;
+  text-decoration: none;
+  line-height: 1.4;
+}
+#Restaurants td[align="center"] a:hover,
+#Restaurants td[align="center"] a:focus-visible {
+  background-color: #0087BD;
+  color: #0f1415;
+}
 
 /* mobile styles */
 @media screen and (max-width: 800px) {
